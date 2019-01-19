@@ -1,0 +1,16 @@
+
+otomobil1  96  mavi  4  asa  87  207  188888.0
+
+bisiklet1  98  mavi  2  null  2  2017  199999.0
+
+Uçak1  980  kýrmýzý  2  fdfdfd  299  2018  9343435.0
+
+gemi1  988  sdasda  0  asdhsah  20000  2018  8777747.0
+
+Uçan Gemi1  980  kýrmýzý  2  erer  200  20188  2017.0
+
+bisiklet1  110  asd  2  null  654  456  65.0
+
+otomobil1  0  siyah,  4  lpg  5  2018  2000.0
+
+otomobil1  1000  mavi  4  sadsadas  2  2012  1.0E7
